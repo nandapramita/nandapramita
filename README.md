@@ -1,6 +1,6 @@
 # Hi, I'm Nanda Pramita 👋🏾 👩🏾‍💻
 
-<img src="file:///C:/Users/ASUS/Downloads/github%20profile/githubprofile.html" alt="banner that says Nanda Pramita - Information Student in ITB STIKOM Bali, I'm still in process of learning web development and cyber security.">
+<img src="https://ibb.co/KVPmvGj" alt="banner that says Nanda Pramita - Information Student in ITB STIKOM Bali, I'm still in process of learning web development and cyber security.">
 I'm an Information Student in ITB STIKOM Bali and still in process of learning web development and cyber security.
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
